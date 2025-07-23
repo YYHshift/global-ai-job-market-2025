@@ -110,7 +110,7 @@ global-ai-job-market-2025/
 
 ## 📬 Contact
 
-Created by **[Your Name]** – [your.email@example.com]  
+Created by **Yuhe Yang** – [yyh-shift@outlook.com]  
 Feel free to open issues, fork this repo, or collaborate.
 
 ---
