@@ -38,7 +38,7 @@ global-ai-job-market-2025/
 
 - **Dataset Name:** Global AI Job Market & Salary Trends 2025
 - **Source:** [Kaggle]
-- **Records:** [e.g., 50,000+ AI job listings]
+- **Records:** [15,000+ job listings from 50+ countries]
 - **Key Fields:**
   - `Country/Region`
   - `Job Title`
@@ -48,7 +48,15 @@ global-ai-job-market-2025/
   - `Experience Level`
   - `Remote/Flexible`
   - `Posting Date`
-
+- **Key Features:**
+  - `Salary data in multiple currencies (normalized to USD)`
+  - `Experience level categorization (Entry, Mid, Senior, Executive)`
+  - `Company size impact analysis`
+  - `Remote work trends and patterns`
+  - `Skills demand analysis`
+  - `Geographic salary variations`
+  - `Time-series data showing market evolution`
+    
 ---
 
 ## 🛠️ Tools & Techniques
