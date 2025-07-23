@@ -1,0 +1,19 @@
+# Power BI temp files
+*.pbix~
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# macOS / Windows / Linux system files
+.DS_Store
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter or VSCode temporary files
+.ipynb_checkpoints/
+.vscode/
