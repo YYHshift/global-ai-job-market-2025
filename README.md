@@ -1,4 +1,3 @@
-
 # 🤖 Power BI Project: Global AI Job Market & Salary Trends 2025
 
 ## 📌 Project Overview
@@ -11,18 +10,18 @@ The purpose of this analysis is to provide valuable insights to job seekers, mar
 
 ## 📁 Project Structure
 
-
-
+```
 global-ai-job-market-2025/
-├── data/
-│   └── main\_dataset.csv          # Original dataset CSV file
-├── report/
-│   └── Global\_AI\_Jobs\_2025.pbix # Power BI dashboard file
-├── images/
-│   └── dashboard.png             # Dashboard screenshot
-├── README.md                    # Project documentation
-└── LICENSE                      # Project license (MIT)
+ ├── data/
+ │   └── main_dataset.csv          # Original dataset CSV file
+ ├── report/
+ │   └── Global_AI_Jobs_2025.pbix # Power BI dashboard file
+ ├── images/
+ │   └── dashboard.png             # Dashboard screenshot
+ ├── README.md                    # Project documentation
+ └── LICENSE                      # Project license (MIT)
 
+```
 
 ---
 
@@ -41,6 +40,7 @@ global-ai-job-market-2025/
 - **Source Type:** Synthetic dataset generated for educational and research purposes
 
 ### 🔑 Key Features
+
 - Salary data normalized in USD and original currencies  
 - Experience levels: Entry (EN), Mid (MI), Senior (SE), Executive (EX)  
 - Company size classification: Small, Medium, Large  
@@ -110,7 +110,7 @@ global-ai-job-market-2025/
 
 ## 📬 Contact
 
-Created by **[Yuhe Yang]** – [yyh-shift@outlook.com]  
+Created by **[Your Name]** – [your.email@example.com]  
 Feel free to open issues, fork this repo, or collaborate.
 
 ---
@@ -122,3 +122,4 @@ Feel free to open issues, fork this repo, or collaborate.
 - Best visualization techniques for employment datasets  
 - ML model ideas using this dataset  
 - Geographic patterns and skill clusters that surprised you  
+
