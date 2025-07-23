@@ -37,7 +37,7 @@ global-ai-job-market-2025/
 ## 🧮 Data Source
 
 - **Dataset Name:** Global AI Job Market & Salary Trends 2025
-- **Source:** [Add source here, e.g., Kaggle / LinkedIn / Synthesized]
+- **Source:** [Kaggle]
 - **Records:** [e.g., 50,000+ AI job listings]
 - **Key Fields:**
   - `Country/Region`
@@ -88,7 +88,7 @@ global-ai-job-market-2025/
 
 ## 📜 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [CC0: Public Domain](LICENSE).
 
 ---
 
@@ -97,21 +97,3 @@ This project is released under the [MIT License](LICENSE).
 Created by **[Your Name]** – [your.email@example.com]  
 Feel free to reach out or fork this project for your own analysis!
 ```
-
----
-
-✅ **下一步建议**：
-
-1. 命名你的 `.pbix` 报告文件为 `Global_AI_Jobs_2025.pbix`
-2. 在 Power BI 中导出仪表板截图，命名为 `dashboard.png`
-3. 把以上内容保存为 `README.md`
-4. 创建 GitHub 仓库，上传所有内容
-
-如果你还没有分析完，我也可以帮你设计**可视化建议图表清单**，比如：
-
-* 平均薪资热力图（按国家）
-* 工作岗位数量时间序列图
-* 职位与经验对薪资的影响（箱型图）
-* 技能词云 or 技能频率柱状图
-
-是否需要我继续？
