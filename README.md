@@ -35,7 +35,7 @@ global-ai-job-market-2025/
 
 - **Title:** Global AI Job Market & Salary Trends 2025
 - **Records:** 15,247 job listings
-- **Countries Covered:** 50+
+- **Countries Covered:** 20+
 - **Format:** CSV
 - **Source Type:** Synthetic dataset generated for educational and research purposes
 
